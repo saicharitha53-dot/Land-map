@@ -1,0 +1,6 @@
+{
+  "name": "LandMap AI",
+  "description": "Discover, map, evaluate and compare land properties across India with AI price intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
